@@ -1,0 +1,2 @@
+100000, Juan,Masculino, 19/09/2003, 1234, Maxilofacial, 2500000
+100000, Juan,Masculino, 19/09/2003, 2131241, Maxilofacial, 2500000

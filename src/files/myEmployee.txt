@@ -1,0 +1,2 @@
+1000049903,  Camilo Sanchez,Masculino,   19/09/2003,   Departamento técnico,     2500000
+1029321333, Andrea Martínez,Femenino, 20/08/1995, Departamento técnico, 2500000
